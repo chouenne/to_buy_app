@@ -21,7 +21,7 @@ header {
   position: fixed;
   width: 100%;
   top: 0;
-  z-index: 1000; /* Ensures the header is above other elements */
+  z-index: 1000; 
 }
 
 header img {
@@ -185,7 +185,6 @@ section {
 }
 
 .main-textbox {
-  /* text-align: center; */
   margin-bottom: 30px;
 }
 
@@ -203,7 +202,7 @@ section {
 }
 
 .des-grid .card:nth-child(1) {
-  background: url(..assets/images/sitemap.png) center/cover;
+  background: url(../assets/images/sitemap.png) center/cover;
 }
 
 .des-grid .card:nth-child(2) {
