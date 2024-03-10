@@ -203,27 +203,27 @@ section {
 }
 
 .des-grid .card:nth-child(1) {
-  background: url(../images/sitemap.png) center/cover;
+  background: url(..assets/images/sitemap.png) center/cover;
 }
 
 .des-grid .card:nth-child(2) {
-  background: url(../images/wireframe.png) center/cover;
+  background: url(../assets/images/wireframe.png) center/cover;
 }
 
 .des-grid .card:nth-child(3) {
-  background: url(../images/Moodboard.png) center/cover;
+  background: url(../assets/images/Moodboard.png) center/cover;
 }
 
 .des-grid .card:nth-child(4) {
-  background: url(../images/tobuymockup_iphone13.png) center/cover;
+  background: url(../assets/images/tobuymockup_iphone13.png) center/cover;
 }
 
 .tech-grid .card:nth-child(1) {
-  background: url(../images/ToBuy\ APP\ db\ schema.png) center/cover;
+  background: url(../assets/images/ToBuy\ APP\ db\ schema.png) center/cover;
 }
 
 .tech-grid .card:nth-child(4) {
-  background: url(../images/files\ structure.png) center/cover;
+  background: url(../assets/images/files\ structure.png) center/cover;
 }
 
 .card {
@@ -334,29 +334,6 @@ ol {
   grid-template-columns: 70% 30%;
 }
 
-/* .grid-proto {
-  display: grid;
-  gap: 110px;
-  grid-template-columns: 50% 50%;
-}
-
-.prototype img {
-  width: 80%;
-  height: 850px;
-  box-shadow: 8px 10px 20px rgba(157, 179, 185, 0.346);
-} */
-
-/* .plan-text {
-  text-align: center;
-}
-
-.prototype .btn {
-  width: 250px;
-  margin-right: 0;
-  margin-left: auto;
-  margin-top: 10px;
-}*/
-
 .personas p {
   margin: 0 auto;
   text-align: center;
@@ -448,42 +425,6 @@ ol {
 .use-info {
   text-align: center;
 }
-
-/*.proto-page {
-  margin-bottom: 60px;
-}
-
-.proto-btn1 {
-  border: 1.5px #8d39ec solid;
-  padding: 5px 14px;
-  color: #8d39ec;
-  transition: 0.3s;
-  border-radius: 50px;
-  margin-bottom: 20px;
-}
-
-.proto-btn1:hover {
-  background-color: #8d39ec;
-  border: 1.5px #8d39ec solid;
-  color: white;
-}
-
-.proto-btn2 {
-  border: 1.5px #8d39ec solid;
-  padding: 5px 10px;
-  color: #8d39ec;
-  margin: 0 auto;
-  transition: 0.3s;
-  border-radius: 50px;
-  margin-left: 871px;
-  margin-bottom: 20px;
-}
-
-.proto-btn2:hover {
-  background-color: #8d39ec;
-  border: 1.5px #8d39ec solid;
-  color: white;
-} */
 
 @media screen and (max-width: 600px) {
   body {
